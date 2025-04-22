@@ -17,7 +17,6 @@ function getEndpoints(deviceAddress, endpoints) {
     endpoints.addEndpoint("2", "Location", endpointType.locationTracker);
     endpoints.addEndpoint("3", "Temperature", endpointType.temperatureSensor);
 
-
 }
 
 
